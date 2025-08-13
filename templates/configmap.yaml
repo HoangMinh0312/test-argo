@@ -4,4 +4,4 @@ metadata:
   name: {{ .Release.Name }}-samplespringconfig
 data:
   application.properties: |
-     demo.file.prop=ValueFromConfig
+     demo.file.prop=ValueFromConfig1
